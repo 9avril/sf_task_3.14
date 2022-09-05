@@ -41,6 +41,6 @@ $ git config --global init.defaultBranch main
 
 Если вы хотите проверить используемую конфигурацию, можете использовать команду `git config --list`, чтобы показать все настройки, которые Git найдёт:
 
-![](screenshots/Screenshot_2.png)
+![](../screenshots/Screenshot_2.png)
 
 ---
