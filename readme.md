@@ -1,10 +1,10 @@
 # **_Основы работы с GIT_**
 
+![status](https://img.shields.io/uptimerobot/status/m778918918-3e92c097147760ee39d02d36)
+
 License: [MIT](/license.md)
 
 ![git_logo](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
-
----
 
 ## **Содержание**:
 
