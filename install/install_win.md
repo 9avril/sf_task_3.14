@@ -4,4 +4,4 @@
 
 После этого можно проверить наличие _Git_ на компьютере путем введения команды `git --version` в PowerShell.
 
-![](Screenshot_1.png)
+![](../screenshots/Screenshot_1.png)
